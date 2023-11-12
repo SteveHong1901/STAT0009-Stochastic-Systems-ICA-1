@@ -3,9 +3,9 @@
 This is a short coursework about using simulation to solve probability problems.
 
 ## Introduction
-Module: STAT0009
-ICA Release Date: 3 November 2023
-Module Grade Contribution: 30%
+1. **Module**: STAT0009
+2. **ICA Release Date**: 3 November 2023
+3. **Module Grade Contribution**: 30%
 
 ## Question Summary
 1. **The Cooked Books (10 points):** Estimate λ for a Poisson-distributed dataset with manipulated entries.
