@@ -11,6 +11,6 @@ This is a short coursework about using simulation to solve probability problems.
 1. **The Cooked Books (10 points):** Estimate λ for a Poisson-distributed dataset with manipulated entries.
 2. **The Half Parabola (5 points):** Explore a region R, sample points, and analyze their distribution and independence.
 3. **The Casino (10 points):** Model a gambler's behavior with a Markov chain, simulate it, and analyze the results.
-4. **The Poisson Collector (5 points):** Estimate probabilities related to a Poisson point process on the real line.
+4. **The Poisson Collector (5 points):** Estimate probabilities related to a Poisson point process on the real line, with greedy random walk properties.
 5. **Coupling (5 points):** Math exercise on bounding the total variational distance of two Poisson variables.
 
