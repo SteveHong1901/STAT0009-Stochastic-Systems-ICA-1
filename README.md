@@ -1,6 +1,6 @@
 # STAT0009-Stochastic-Systems-ICA-1
 
-This is a short coursework about using simulation to solve probability problems.
+This is a short coursework about using simulation to solve probability problems. Download the zip file to view the report and the figures.
 
 ## Introduction
 1. **Module**: STAT0009
